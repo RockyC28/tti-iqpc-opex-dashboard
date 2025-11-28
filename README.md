@@ -1,12 +1,12 @@
 # Automated Production Dashboards for IQPC and OPEX
 
 ## 1. Project Overview
-In this project, I built automated data pipelines and interactive dashboards to track production and quality performance for the IQPC (In-Quality Process Control) and OPEX (Operational Excellence) programs at Techtronic Industries (TTI).  
-The goal was to replace manual Excel-based reporting with a consistent, near real-time view of line performance that managers and engineers could use every day.
+In this project, I developed automated data ingestion tools and data visualization dashboards related to the IQPC (In-Quality Process Control) and OPEX (Operational Excellence) initiatives at Techtronic Industries (TTI) to monitor production and quality performance.
+The aim was to turn reports from Excel spreadsheets, produced manually every day, into an automated, near real-time line performance snapshot that can be accessed daily by management and engineers.
 
 **Key outcomes:**
-- Reduced manual reporting work by automating daily data refresh and calculations.
-- Enabled production and quality managers to monitor key metrics by line, product, and shift in one place.
+- Automated data refresh and calculations, reducing manual reporting tasks.
+- Allowed the production and quality managers to review important data regarding line, product, and shift performance in one centralized place.
 - Improved visibility into defect trends and bottlenecks, supporting faster root-cause analysis and decision-making.
 
 ---
@@ -14,15 +14,18 @@ The goal was to replace manual Excel-based reporting with a consistent, near rea
 ## 2. My Role and Skills Demonstrated
 I worked as a **Data Analyst Intern** on the Business Systems Team and was mainly responsible for:
 
-- **Data work**: Extracted and merged data from SQL Server and Excel logs; standardized product, line, and time fields.
-- **Modeling / analysis**: Defined and calculated metrics such as defect rate, rework rate, output by line, and First Pass Yield.
-- **Visualization / product**: Designed and built Power BI dashboards for IQPC and OPEX with drill-down filters and clear KPI views.
-- **Collaboration**: Communicated with engineers, QA staff, and managers to understand their needs and iterate on dashboard layouts.
+- **Data work**: Data from SQL Server and Excel logs was extracted and combined; product, line, and time variables harmonized.
+- **Modeling/Analysis**: Key metrics like defect rate, rework rate, output per line, and First Pass Yield have been identified and calculated.
+- **Visualization/product**: Developed data visualization dashboards using Power BI tools in the IQPC and OPEX cases, using drill-down filters and KPI visualization.
+- **Collaboration**: Worked with the engineering, QA, and management teams to understand requirements and refine dashboard designs.
+
+
+
 
 This project highlights my skills in:
-- Python (pandas) for data cleaning and transformation
-- SQL for querying, joining, and aggregating production and quality data
-- Power BI for data modeling, DAX measures, and interactive dashboards
+- Python (pandas) for data cleaning and transformation process
+- SQL queries, joins, and aggregation operations related to data from both "Production" and “Quality” databases
+- Power BI for data modeling, DAX Formulas, and dashboarding Practices     
 - Cross-functional communication and documentation of metrics and workflows
 
 ---
@@ -48,8 +51,8 @@ This project highlights my skills in:
 ## 4. Results and Impact
 Some key results from the project:
 
-- Managers can now track defect hotspots by product, line, and time of day without manually combining spreadsheets.
-- The dashboards help identify lines or stations with abnormal trends, supporting targeted root-cause analysis.
+- Managers can easily identify where defects exist in terms of product, line, and time of day without having to link spreadsheets.
+- The dashboards aid in pointing out which lines or stations have unusual trending patterns.
 - Weekly and monthly reports can be generated directly from the dashboards, greatly reducing the time spent on manual reporting.
 
 These results show how data engineering and visualization can directly support factory operations, quality improvement, and decision-making.
@@ -57,10 +60,10 @@ These results show how data engineering and visualization can directly support f
 ---
 
 ## 5. How This Connects to My Career
-This project is important for my career because it shows that I can:
+This project means a lot in terms of my career because it illustrates that I can:
 
-- Take messy, real-world factory data and turn it into a usable analytics product.
+- Working with real industry data and extracting it to build an analytical tool.
 - Communicate technical results in a way that non-technical stakeholders can understand and act on.
-- Work across business and technical teams to define metrics and build tools that people actually use.
+- Work with the business and technical teams to determine the metrics and build tools that get used. 
 
-I want to continue developing as a **Business/Data Analyst** working on projects that connect data with real business problems, especially in operations, supply chain, and process improvement.
+I would like to continue growing in the role of **Business/Data Analyst**, focusing on projects where data can help solve real-world issues in business, including operations, supply chains, and process optimization.
